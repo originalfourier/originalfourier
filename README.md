@@ -11,7 +11,7 @@
 <!-- YOUTUBE:START -->
 
 * [x] task1
-* [] task2
+* [ ] task2
 
 
 <!-- YOUTUBE:END -->
