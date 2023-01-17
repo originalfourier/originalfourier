@@ -9,7 +9,7 @@
 ### Videos de youtube
 
 <!-- YOUTUBE:START -->
- [Videos de Matemáticas]([https://www.youtube.com/watch?v=Nh7_qzfCgoM](https://www.youtube.com/watch?v=cFRDqCbbqcc&list=UUIxCJXzcn8ZvbFxY4eSoiCg))
+ [Videos de Matemáticas](https://www.youtube.com/watch?v=cFRDqCbbqcc&list=UUIxCJXzcn8ZvbFxY4eSoiCg)
 * [x] task1
 * [ ] task2
 
